@@ -41,6 +41,8 @@ OBJECT_NAMES = {
     "Folders": "Folder",
     "Inbox": "Inbox",
     "LineItems": "LineItem",
+    "Phones": "Phone",
+    "Addresses": "Address",
 }
 
 def isplural(word):
